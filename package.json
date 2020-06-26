@@ -1,0 +1,11 @@
+{
+  "name": "js-cardio",
+  "version": "1.0.0",
+  "description": "Javascript exercises and problem solving challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Facundo Alvarez",
+  "license": "ISC"
+}
